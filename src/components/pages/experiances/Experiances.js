@@ -4,7 +4,7 @@ export default function Experiances() {
       <div className="card">
         <div className="card-content">
           <h6>
-            <strong>EXPERIENCE</strong>
+            <strong>EXPERIANCE</strong>
           </h6>
           <div className="row mt-top">
             <div className="col xl4 l4 m6 s12">

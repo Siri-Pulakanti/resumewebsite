@@ -26,8 +26,8 @@ export default class Navbar extends Component {
                   </Link>
                 </li>
                 <li>
-                  <Link to="/experiences">
-                    <i class="fas fa-id-badge"></i> Experiences
+                  <Link to="/experiances">
+                    <i class="fas fa-id-badge"></i> Experiances
                   </Link>
                 </li>
                 <li>
